@@ -1,4 +1,4 @@
-# telegram-offloarder
+# telegram-offloader
 A small ruby script to offload files from saved messages in telegram
 
 ## usage
